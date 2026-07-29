@@ -468,9 +468,8 @@ We construct zero-knowledge position verification from standard position verific
 
 </details>
 
-<br />
 
-<details open> 
+<details> 
    <summary>
 
   ### January – April, 2026

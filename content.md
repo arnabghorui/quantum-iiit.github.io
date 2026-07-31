@@ -36,54 +36,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.09410) (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ed699b-1e62-4e95-91d2-510e2813c8ed" /> 
-
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-Thermal behavior in subsystems of closed quantum systems is commonly attributed to dynamical chaos, quantum ergodicity, canonical typicality, or the eigenstate thermalization hypothesis, suggesting a fundamentally statistical origin of thermalization. Here, we propose a potential alternative mechanism in which thermal structures emerge deterministically from symmetry considerations alone, without recourse to statistical arguments. We prove a finite de Finetti-type theorem for quantum states invariant under energy-preserving unitaries, establishing that the reduced marginals of any such invariant N-qudit state are close (both in trace distance and relative entropy) to convex mixtures of thermal product states, with explicit error bounds vanishing as N approaches infinity. We further present an example of energy-conserving Lindblad dynamics whose long-time limit is invariant under energy-preserving unitaries, providing a dynamical realization of the desired symmetry class. These results imply that invariance under energy-preserving unitaries suffices as a sole fundamental, deterministic principle to enforce thermal structures.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Uttam Singh | IIIT Hyderabad  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, July 29, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-
-
-
-<br/>
-
-
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
-
-
 
 ### [Quantum Seminar] Zikuan Huang—[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763) (Online-only)
 
@@ -113,6 +65,52 @@ In this work, we establish the first separation between computation with bounded
 
 
 <br/>
+
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+### [Quantum Colloquium] Prabhanjan Ananth—Unclonable Encryption: Recent AI-aided advancements (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/348ed4b5-9fba-432c-85cd-d39f5356698e" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+
+ -->
+
+
+Unclonable encryption is a fundamental quantum cryptographic primitive that leverages the no-cloning principle of quantum mechanics to protect encrypted data being copied. Ever since it was first introduced in 2019, there have been active efforts to achieve unclonable encryption. I'll discuss the history of unclonable encryption and a recent work (joint with Amit Sahai and also concurrently discovered by Seyoon Ragavan) that uses AI tools to achieve the strongest notion of unclonable encryption in turn resolving an open question posed in 2019.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Prabhanjan Ananth | UCSB  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, August 12, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
+
+
+
+
 
 
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)

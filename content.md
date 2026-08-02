@@ -37,7 +37,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Zikuan Huang—[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763) (Online-only)
+### [Quantum Seminar] Zikuan Huang—[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6ec2e1c1-9cb5-455c-8218-0c57f56a3a25" /> 
 
@@ -58,7 +58,7 @@ In this work, we establish the first separation between computation with bounded
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Zikuan Huang | Shanghai Qizhi Institute  | Online-only | Wednesday, August 5, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Zikuan Huang | Shanghai Qizhi Institute  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, August 5, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
@@ -110,9 +110,6 @@ Unclonable encryption is a fundamental quantum cryptographic primitive that leve
 
 
 
-
-
-
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/96f20a08-2db6-4588-bc21-70fc766c7728" /> 
@@ -141,6 +138,7 @@ As one of our central technical contributions, we build on the recently introduc
 
 <br/>
 
+<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Nathan Claudet—[Graph states and counter-examples to the LU-LC conjecture](https://arxiv.org/pdf/2603.25219) (presented online)
@@ -169,7 +167,7 @@ Graph states form a large family of quantum states that are in one-to-one corres
 <br/>
 
 
-<!-- SKIP_START -->
+
 
 
 ### [Quantum Seminar] Yihang Sun—[On Worst-Case Optimal Polynomial Intersection](https://arxiv.org/abs/2604.09533) (presented online)

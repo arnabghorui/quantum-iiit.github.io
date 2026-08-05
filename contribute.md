@@ -25,8 +25,8 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
-|Uttam Singh| Atul & Himanshu| 29th July|
-|Aleksanders Belovs| Atul & Himanshu|20th July| 
+|Uttam Singh| Atul & Himanshu| 29 July, 2026|
+|Aleksanders Belovs| Atul & Himanshu|20 July, 2026| 
 |Haimeng Zhao|Atul & Himanshu| 15 July, 2026 |
 |Tulja Varun Kondra | Atul & Himanshu | 13 July, 2026 |
 |Alper Cakan | Atul & Himanshu | 8 July, 2026 |

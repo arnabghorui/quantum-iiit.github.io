@@ -67,16 +67,6 @@ In this work, we establish the first separation between computation with bounded
 <br/>
 
 
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
 ### [Quantum Colloquium] Prabhanjan Ananth—Unclonable Encryption: Recent AI-aided advancements (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/348ed4b5-9fba-432c-85cd-d39f5356698e" /> 
@@ -106,6 +96,16 @@ Unclonable encryption is a fundamental quantum cryptographic primitive that leve
 
 
 <br/>
+
+
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
 
 
 

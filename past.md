@@ -46,8 +46,7 @@ In this work, we establish the first separation between computation with bounded
 <br/>
 
 
-### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.0
-  9410) (in-person)
+### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.09410) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ed699b-1e62-4e95-91d2-510e2813c8ed" /> 
 

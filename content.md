@@ -19,7 +19,6 @@ If you would like to present your work, or have other related questions, please 
 
 At present, this effort is being driven by volunteers from IIIT Hyderabad, the University of Maryland and the University of Edinburgh. 
 
-
 ## Upcoming 
 <!-- <br/> -->
 
@@ -34,21 +33,18 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
+### [Quantum Talk] Souradeep Sasmal—[Sequential Communication Advantage in the Qubit-Based 2 to 1 Random Access Code](https://arxiv.org/abs/2605.16093) (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" /> 
 
 
-
-### [Quantum Seminar] Zikuan Huang—[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6ec2e1c1-9cb5-455c-8218-0c57f56a3a25" /> 
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" />
+<img width="223" height="243" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" />
 
  -->
 
 
-In this work, we establish the first separation between computation with bounded and unbounded space, for problems with short outputs (i.e., working memory can be exponentially larger than output size), both in the classical and the quantum setting. Towards that, we introduce a problem called nested collision finding, and show that optimal query complexity can not be achieved without exponential memory. Our result is based on a novel ''two-oracle recording'' technique, where one oracle ''records'' the computation's long outputs under the other oracle, effectively reducing the time-space trade-off for short-output problems to that of long-output problems. We believe this technique will be of independent interest for establishing time-space tradeoffs in other short-output settings.
-
+Quantum mechanics enables information-processing advantages even at the level of a single qubit. A paradigmatic example is the 2→1 random access code (RAC), where a qubit outperforms a classical bit in retrieving encoded information. In the standard form, however, this quantum advantage is restricted to a single receiver, since decoding measurements inevitably destroy the encoded information. Contrary to this, we address how long the information encoded in a single qubit remains accessible even after multiple decoding, each with a quantum advantage. Introducing preparation distinguishability as an operational resource associated with the sender, we show that its interplay with measurement incompatibility on the receiver's side can mitigate measurement-induced disturbance, thereby enabling an arbitrarily long sequence of receivers to each retain a quantum advantage. Our results show that, even under repeated measurements, the information encoded in a qubit need not be entirely exhausted, revealing a stronger communication feature than previously recognised.
 
 <div style="clear: both;"></div>
 <br/>
@@ -58,13 +54,14 @@ In this work, we establish the first separation between computation with bounded
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Zikuan Huang | Shanghai Qizhi Institute  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, August 5, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Souradeep Sasmal | Institute of Fundamental and Frontier Sciences, UESTC, China  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, August 10, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
 
 
 <br/>
+
 
 
 ### [Quantum Colloquium] Prabhanjan Ananth—Unclonable Encryption: Recent AI-aided advancements (presented online)
@@ -102,11 +99,48 @@ Unclonable encryption is a fundamental quantum cryptographic primitive that leve
 
 
 
+
+
 <!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
 <br/>
 
 ## Pipeline
 
+
+
+### [Quantum Talk] Madhumita Saha—Quantum transport and Nonequilibrium dynamics in quantum systems (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6a67fbee-35b7-4f63-b2c8-e5795d3b3b88" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" />
+<img width="261" height="329" alt="image" src="https://github.com/user-attachments/assets/6a67fbee-35b7-4f63-b2c8-e5795d3b3b88" />
+
+
+ -->
+
+
+I will discuss some aspects of the steady states transport properties  and dynamics of out-of-equilibrium quantum systems.
+
+In the first part of the talk, I will focus on non-equilibrium steady state transport properties and the microscopic origin of anomalous transport behaviour that have no counterpart in isolated quantum systems. In particular, I will show how the exceptional-point degeneracies of inherently non-Hermitian transfer matrices give rise to a universal subdiffusive scaling of conductance, providing a unified microscopic understanding of anomalous transport.
+
+In the second part, I will discuss the dynamics of entanglement entropy in a freely expanding fermionic gas. I will demonstrate how this seemingly complex quantum dynamics can be accurately captured by a simple semiclassical framework based on generalized hydrodynamics, offering an analytical understanding of the evolution of entanglement.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Madhumita Saha | ICTS-TIFR,  Bengaluru  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, August 19, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
 
 
 

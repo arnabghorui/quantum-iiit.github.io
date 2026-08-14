@@ -16,6 +16,69 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Colloquium] Prabhanjan Ananth—Unclonable Encryption: Recent AI-aided advancements (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/348ed4b5-9fba-432c-85cd-d39f5356698e" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+
+ -->
+
+
+Unclonable encryption is a fundamental quantum cryptographic primitive that leverages the no-cloning principle of quantum mechanics to protect encrypted data being copied. Ever since it was first introduced in 2019, there have been active efforts to achieve unclonable encryption. I'll discuss the history of unclonable encryption and a recent work (joint with Amit Sahai and also concurrently discovered by Seyoon Ragavan) that uses AI tools to achieve the strongest notion of unclonable encryption in turn resolving an open question posed in 2019.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Prabhanjan Ananth | UCSB  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, August 12, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
+
+### [Quantum Talk] Souradeep Sasmal—[Sequential Communication Advantage in the Qubit-Based 2 to 1 Random Access Code](https://arxiv.org/abs/2605.16093) (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" />
+<img width="223" height="243" alt="image" src="https://github.com/user-attachments/assets/71913263-3a64-4964-a20e-be9cab00c083" />
+
+ -->
+
+
+Quantum mechanics enables information-processing advantages even at the level of a single qubit. A paradigmatic example is the 2→1 random access code (RAC), where a qubit outperforms a classical bit in retrieving encoded information. In the standard form, however, this quantum advantage is restricted to a single receiver, since decoding measurements inevitably destroy the encoded information. Contrary to this, we address how long the information encoded in a single qubit remains accessible even after multiple decoding, each with a quantum advantage. Introducing preparation distinguishability as an operational resource associated with the sender, we show that its interplay with measurement incompatibility on the receiver's side can mitigate measurement-induced disturbance, thereby enabling an arbitrarily long sequence of receivers to each retain a quantum advantage. Our results show that, even under repeated measurements, the information encoded in a qubit need not be entirely exhausted, revealing a stronger communication feature than previously recognised.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Souradeep Sasmal | Institute of Fundamental and Frontier Sciences, UESTC, China  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, August 10, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
+
+
+
 ### [Quantum Seminar] Zikuan Huang—[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6ec2e1c1-9cb5-455c-8218-0c57f56a3a25" /> 

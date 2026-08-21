@@ -32,7 +32,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 *NB. The default timezone below is India/Kolkata GMT+5:30*
 
 <br/>
-
+<!-- Upcoming event details go below  -->
 
 
 
@@ -42,12 +42,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 ## Pipeline
-
-
-
-
-
-
 
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
 

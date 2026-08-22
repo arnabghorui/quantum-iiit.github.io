@@ -25,6 +25,9 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+|Madhumita Saha | Atul | 19 August, 2026|
+|Prabhanjan Ananth| Atul| 12 August, 2026|
+|Souradeep Sasmal| Atul | 10 August, 2026|
 |Zikuan Huang | Atul | 5 August, 2026 |
 |Uttam Singh| Atul & Himanshu| 29 July, 2026|
 |Aleksanders Belovs| Atul & Himanshu|20 July, 2026| 

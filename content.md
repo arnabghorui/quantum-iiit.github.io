@@ -35,14 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- Upcoming event details go below  -->
 
 
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/96f20a08-2db6-4588-bc21-70fc766c7728" /> 
@@ -70,6 +62,14 @@ As one of our central technical contributions, we build on the recently introduc
 | Seminar | Eli Goldin | New York University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 9, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
 
 
 
@@ -129,6 +129,7 @@ In this work, we show that there are better solutions for worst-case OPI instanc
 | Seminar | Yihang Sun | Stanford University | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 23, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
+
 
 ### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (presented online)
 

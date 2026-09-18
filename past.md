@@ -16,6 +16,31 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Nathan Claudet—[Graph states and counter-examples to the LU-LC conjecture](https://arxiv.org/pdf/2603.25219) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5ed32956-c60b-4143-b8d5-8c433bb54f75" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Graph states form a large family of quantum states that are in one-to-one correspondence with mathematical graphs. Graph states are used in many applications, such as measurement-based quantum computation, as multipartite entangled resources. It is thus crucial to understand when two such states have the same entanglement, i.e. when they can be transformed into each other using only local operations. In this case, we say that the graph states are LU-equivalent (local unitary). If the local operations are restricted to the Clifford group, we say that the graph states are LC-equivalent (local Clifford). It was once conjectured that two graph states are LU-equivalent if and only if they are LC-equivalent. This so-called LU-LC conjecture was disproved in 2007, as a pair of 27-qubit graph states that are LU-equivalent, but not LC-equivalent, was discovered. We prove that this counterexample to the LU-LC conjecture is minimal. In other words, for graph states on up to 26 qubits, the notions of LU-equivalence and LC-equivalence coincide. This result is obtained by studying the structure of 2-local complementation. 2-local complementation is a special case of the recently introduced r-local complementation, and a generalization of the well-known local complementation, which respectively capture the LU-equivalence and LC-equivalence of graph states. We make use of a connection with triorthogonal codes and Reed-Muller codes.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Nathan Claudet | University of Innsbruck, Austria  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 16, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/96f20a08-2db6-4588-bc21-70fc766c7728" /> 

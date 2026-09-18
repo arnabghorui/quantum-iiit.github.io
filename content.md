@@ -34,47 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 <!-- Upcoming event details go below  -->
 
-### [Quantum Seminar] Nathan Claudet—[Graph states and counter-examples to the LU-LC conjecture](https://arxiv.org/pdf/2603.25219) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5ed32956-c60b-4143-b8d5-8c433bb54f75" /> 
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-Graph states form a large family of quantum states that are in one-to-one correspondence with mathematical graphs. Graph states are used in many applications, such as measurement-based quantum computation, as multipartite entangled resources. It is thus crucial to understand when two such states have the same entanglement, i.e. when they can be transformed into each other using only local operations. In this case, we say that the graph states are LU-equivalent (local unitary). If the local operations are restricted to the Clifford group, we say that the graph states are LC-equivalent (local Clifford). It was once conjectured that two graph states are LU-equivalent if and only if they are LC-equivalent. This so-called LU-LC conjecture was disproved in 2007, as a pair of 27-qubit graph states that are LU-equivalent, but not LC-equivalent, was discovered. We prove that this counterexample to the LU-LC conjecture is minimal. In other words, for graph states on up to 26 qubits, the notions of LU-equivalence and LC-equivalence coincide. This result is obtained by studying the structure of 2-local complementation. 2-local complementation is a special case of the recently introduced r-local complementation, and a generalization of the well-known local complementation, which respectively capture the LU-equivalence and LC-equivalence of graph states. We make use of a connection with triorthogonal codes and Reed-Muller codes.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Nathan Claudet | University of Innsbruck, Austria  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 16, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br/>
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
-
-
-
 
 ### [Quantum Seminar] Yihang Sun—[On Worst-Case Optimal Polynomial Intersection](https://arxiv.org/abs/2604.09533) (presented online)
 
@@ -103,6 +62,13 @@ In this work, we show that there are better solutions for worst-case OPI instanc
 
 <br/>
 
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
 
 ### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (presented online)
 
@@ -167,6 +133,31 @@ Prior to our work, state isomorphism problems had only been studied for the symm
 
 <br/>
 
+
+### [Quantum Seminar] Daochen Wang—[Rational degree is polynomially related to degree](https://arxiv.org/abs/2601.08727) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+We prove that deg(f) is at most rdeg(f) cubed (up to logarithmic factors) for every Boolean function f, where deg(f) is the degree of f and rdeg(f) is the rational degree of f. This resolves the second of the three open problems stated by Nisan and Szegedy, and attributed to Fortnow, in 1994. [Based on joint work with Robin Kothari, Matt Kovacs-Deak, and Rain Zimin Yang.]
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Daochen Wang | UBC, Canada | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 4, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
 
 
 
